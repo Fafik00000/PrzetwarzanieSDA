@@ -1,0 +1,2 @@
+# PrzetwarzanieSDA
+Przetwarzanie zbiorów danych
